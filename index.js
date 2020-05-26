@@ -1,2 +1,3 @@
 function add() {
-  number + number }
+  number + number
+}
