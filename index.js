@@ -1,1 +1,2 @@
-function add() { 
+function add() {
+  number + number }
